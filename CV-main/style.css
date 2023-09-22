@@ -1,0 +1,19 @@
+body{
+    background-color: slategray;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 0px;
+    margin: 0px;
+}
+
+main{
+width: 500px;
+border: 1px; color: black;
+text-align: center;
+padding: 30px;
+margin: auto;
+background-color: cornsilk;
+}
+
+h1{
+    font-family: 'Kaushan Script', cursive;
+}
